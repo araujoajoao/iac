@@ -1,0 +1,3 @@
+do_token="dop_v1_322d0e763d8131cc246ddc085756d4dce52490a52913c3717a9a464714263b43"
+k8s_name="k8s-iniciativa-devops"
+region="nyc1"
